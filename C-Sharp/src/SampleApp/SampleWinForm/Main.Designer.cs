@@ -1,6 +1,6 @@
 ﻿namespace SampleWinForm
 {
-    partial class Form1
+    partial class Main
     {
         /// <summary>
         ///  Required designer variable.
@@ -30,13 +30,13 @@
         {
             SuspendLayout();
             // 
-            // Form1
+            // Main
             // 
             AutoScaleDimensions = new SizeF(13F, 28F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1135, 697);
-            Name = "Form1";
-            Text = "Form1";
+            ClientSize = new Size(1774, 774);
+            Name = "Main";
+            Text = "Main";
             ResumeLayout(false);
         }
 
