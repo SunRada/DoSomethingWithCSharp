@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\src\\SampleApp\\SampleWinForm\\SampleWinForm.csproj": {}
+    "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\tests\\WinFormsAppTest\\WinFormsAppTest.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\src\\SampleApp\\SampleWinForm\\SampleWinForm.csproj": {
+    "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\tests\\WinFormsAppTest\\WinFormsAppTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\src\\SampleApp\\SampleWinForm\\SampleWinForm.csproj",
-        "projectName": "SampleWinForm",
-        "projectPath": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\src\\SampleApp\\SampleWinForm\\SampleWinForm.csproj",
+        "projectUniqueName": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\tests\\WinFormsAppTest\\WinFormsAppTest.csproj",
+        "projectName": "WinFormsAppTest",
+        "projectPath": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\tests\\WinFormsAppTest\\WinFormsAppTest.csproj",
         "packagesPath": "C:\\Users\\sun_d\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\src\\SampleApp\\SampleWinForm\\obj\\",
+        "outputPath": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\tests\\WinFormsAppTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\MSDev\\Microsoft Visual Studio\\Shared\\NuGetPackages"
