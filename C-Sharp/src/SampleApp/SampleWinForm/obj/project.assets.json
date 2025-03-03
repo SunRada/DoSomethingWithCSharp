@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\SampleApp\\SampleWinForm\\SampleWinForm.csproj",
+      "projectUniqueName": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\src\\SampleApp\\SampleWinForm\\SampleWinForm.csproj",
       "projectName": "SampleWinForm",
-      "projectPath": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\SampleApp\\SampleWinForm\\SampleWinForm.csproj",
+      "projectPath": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\src\\SampleApp\\SampleWinForm\\SampleWinForm.csproj",
       "packagesPath": "C:\\Users\\sun_d\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\SampleApp\\SampleWinForm\\obj\\",
+      "outputPath": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\src\\SampleApp\\SampleWinForm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\MSDev\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5A9AF259-F80E-410F-BD4A-EAD61BC3AE81}|SampleWinForm\\SampleWinForm.csproj|d:\\dev\\workspace\\dosomething\\c-sharp\\sampleapp\\samplewinform\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5A9AF259-F80E-410F-BD4A-EAD61BC3AE81}|SampleWinForm\\SampleWinForm.csproj|solutionrelative:samplewinform\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A9AF259-F80E-410F-BD4A-EAD61BC3AE81}|SampleWinForm\\SampleWinForm.csproj|d:\\dev\\workspace\\dosomething\\c-sharp\\sampleapp\\samplewinform\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A9AF259-F80E-410F-BD4A-EAD61BC3AE81}|SampleWinForm\\SampleWinForm.csproj|solutionrelative:samplewinform\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +27,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T13:28:26.552Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main.Designer.cs",
-              "DocumentMoniker": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\SampleApp\\SampleWinForm\\Main.Designer.cs",
-              "RelativeDocumentMoniker": "SampleWinForm\\Main.Designer.cs",
-              "ToolTip": "D:\\Dev\\Workspace\\DoSomething\\C-Sharp\\SampleApp\\SampleWinForm\\Main.Designer.cs",
-              "RelativeToolTip": "SampleWinForm\\Main.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T13:25:10.028Z",
-              "EditorCaption": ""
             }
           ]
         }

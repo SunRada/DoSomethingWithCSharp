@@ -1,0 +1,13 @@
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\bin\Debug\net8.0\ProtoDefinitions.deps.json
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\bin\Debug\net8.0\ProtoDefinitions.dll
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\bin\Debug\net8.0\ProtoDefinitions.pdb
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\obj\Debug\net8.0\ProtoDefinitions.csproj.AssemblyReference.cache
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\obj\Debug\net8.0\ProtoDefinitions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\obj\Debug\net8.0\ProtoDefinitions.AssemblyInfoInputs.cache
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\obj\Debug\net8.0\ProtoDefinitions.AssemblyInfo.cs
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\obj\Debug\net8.0\ProtoDefinitions.csproj.CoreCompileInputs.cache
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\obj\Debug\net8.0\ProtoDefinitions.sourcelink.json
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\obj\Debug\net8.0\ProtoDefinitions.dll
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\obj\Debug\net8.0\refint\ProtoDefinitions.dll
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\obj\Debug\net8.0\ProtoDefinitions.pdb
+D:\Dev\Workspace\DoSomething\C-Sharp\src\ProtoDefinitions\obj\Debug\net8.0\ref\ProtoDefinitions.dll
