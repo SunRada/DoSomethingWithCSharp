@@ -2,6 +2,7 @@
 using System.Linq;
 using Microsoft.VisualStudio.TestPlatform.ObjectModel;
 using Xunit;
+using Xunit.Abstractions;
 using Xunit.Sdk;
 
 public class PriorityOrderer : ITestCaseOrderer
@@ -14,5 +15,10 @@ public class PriorityOrderer : ITestCaseOrderer
                 .FirstOrDefault();
             return priorityAttribute?.GetNamedArgument<int>("Priority") ?? int.MaxValue;
         });
+    }
+
+    public IEnumerable<TTestCase> OrderTestCases<TTestCase>(IEnumerable<TTestCase> testCases) where TTestCase : ITestCase
+    {
+        throw new NotImplementedException();
     }
 }

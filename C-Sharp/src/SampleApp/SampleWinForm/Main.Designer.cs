@@ -35,9 +35,9 @@
             AutoScaleDimensions = new SizeF(13F, 28F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Window;
-            ClientSize = new Size(1774, 774);
+            ClientSize = new Size(1656, 986);
             Name = "Main";
-            Text = "Main";
+            Text = "Do Something？";
             ResumeLayout(false);
         }
 
