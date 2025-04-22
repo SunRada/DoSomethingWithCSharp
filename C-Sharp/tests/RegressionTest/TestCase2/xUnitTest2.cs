@@ -1,4 +1,4 @@
-﻿namespace RegressionTest
+﻿namespace RegressionTest.TestCase2
 {
     [Collection("TestCollection2")]
     public class SecondTestClass

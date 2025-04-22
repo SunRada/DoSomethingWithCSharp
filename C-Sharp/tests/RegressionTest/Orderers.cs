@@ -1,18 +1,13 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using Microsoft.VisualStudio.TestPlatform.ObjectModel;
+﻿using System;
+using System.Collections.Generic;
 using Xunit;
+using Xunit.Abstractions;
 using Xunit.Sdk;
 
-public class PriorityOrderer : ITestCaseOrderer
+public class CustomCollectionOrderer : ITestCollectionOrderer
 {
-    public IEnumerable<TestCase> OrderTestCases(IEnumerable<TestCase> testCases)
+    public IEnumerable<ITestCollection> OrderTestCollections(IEnumerable<ITestCollection> testCollections)
     {
-        return testCases.OrderBy(testCase =>
-        {
-            var priorityAttribute = testCase.TestMethod.Method.GetCustomAttributes(typeof(PriorityAttribute))
-                .FirstOrDefault();
-            return priorityAttribute?.GetNamedArgument<int>("Priority") ?? int.MaxValue;
-        });
+        return testCollections.OrderBy(c => c.DisplayName); // 这里按名称排序，你可以换成其他逻辑
     }
 }
