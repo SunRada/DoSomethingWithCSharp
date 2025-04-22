@@ -6,9 +6,9 @@
 *.sln.docstates
 
 # 忽略编译输出
-/bin/
-/obj/
-/out/
+bin/
+obj/
+out/
 
 # 忽略调试和发布配置
 *.pdb
