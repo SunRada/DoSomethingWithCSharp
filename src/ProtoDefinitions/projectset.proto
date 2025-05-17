@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message ProjectSet {
+    Project Project = 1;
+    int32 UniqueID = 2;
+}
+
+message Project {
+    string ProjectName = 1;
+    int32 ProjectID = 2;
+    string memo = 3;
+}
